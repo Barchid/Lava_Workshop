@@ -11,7 +11,6 @@ from torch.utils.data import Dataset, DataLoader
 # import slayer from lava-dl
 import lava.lib.dl.slayer as slayer
 
-import IPython.display as display
 from matplotlib import animation
 
 from nmnist import augment, NMNISTDataset
